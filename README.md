@@ -9,12 +9,32 @@ Atualmente, estou 100% focado em migrar de vez para a área de tecnologia. Meu g
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-* 🗣️ **Linguagens:** Python.
-* 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript e React
-* ☁️ **Outras:** Git, GitHub, Fluter e FastAPI
-* 💡 **Interesses:** Segurança da Informação, DevOps, Automação
+* **Linguagens:**
+    * Python
+    * C#
+    * JavaScript (ES6+)
 
+* **Front-End:**
+    * HTML5
+    * CSS3
+    * React.js
+    * Tailwind CSS
+
+* **Ferramentas & Versionamento:**
+    * Git
+    * GitHub
+    * VS Code
+
+* **Automação, Testes & Dados:**
+    * Selenium (Automação/Scraping)
+    * Testes Automatizados & QA
+    * Consumo de APIs REST
+    * NLP (Processamento de Linguagem Natural)
+
+* **Atualmente Aprendendo (Interesses):**
+    * .NET
+    * Metodologias Ágeis (Scrum/Kanban)
+  
 Sempre aberto para trocar ideias e aprender mais! 🤝
 
 ---
@@ -22,6 +42,7 @@ Sempre aberto para trocar ideias e aprender mais! 🤝
 ### 🔗 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedroputinatti])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro170101@hotmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pedro170101)
 
 
 ---
