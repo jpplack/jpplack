@@ -37,13 +37,24 @@ Atualmente, estou 100% focado em migrar de vez para a área de tecnologia. Meu g
   
 Sempre aberto para trocar ideias e aprender mais! 🤝
 
+### 🚀 Projetos em Destaque
+
+<a href="https://github.com/jpplack/IA_Academy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpplack&repo=IA_Academy&theme=radical&show_owner=true" />
+</a>
+
+<a href="https://github.com/jpplack/Sentinela-Urbana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpplack&repo=Sentinela-Urbana&theme=radical&show_owner=true" />
+</a>
+
+<br/>
+
 ---
 
 ### 🔗 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedroputinatti])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroputinatti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro170101@hotmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pedro170101)
-
 
 ---
 
