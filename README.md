@@ -1,63 +1,50 @@
 # Olá, eu sou Pedro Putinatti! 👋
 
-###  sobre mim
-Sou um entusiasta de tecnologia e estudante no 7º semestre de Ciência da Computação na UNIP. Minha trajetória é um pouco fora da curva: já atuei com manutenção de hardware , prestei suporte de TI e operei redes na arma de Comunicações do Exército Brasileiro e hoje trabalho com documentação técnica internacional.
+### sobre mim
 
-Essa jornada me ensinou a ser resiliente, adaptável e gostar de um bom desafio (especialmente aqueles que parecem impossíveis!).
+Sou um entusiasta de tecnologia e estudante de **Ciência da Computação na UNIP** (formação prevista para 2026). Minha trajetória une a disciplina militar das Comunicações do Exército com a experiência técnica em infraestrutura e documentação internacional.
 
-Atualmente, estou 100% focado em migrar de vez para a área de tecnologia. Meu grande objetivo é conquistar minha primeira oportunidade na cultura DevOps, combinando minha paixão por automação e infraestrutura. Paralelamente, sou fascinado por Inteligência Artificial — tanto que meu TCC é o desenvolvimento de uma IA em Python para otimizar pesquisas científicas usando APIs como arXiv e PubMed.
+Atualmente, estou imerso na transição para **DevOps e Backend**, focando em automação, escalabilidade e Inteligência Artificial. Meu TCC é o desenvolvimento de uma IA em Python para otimização de pesquisas científicas via APIs (arXiv/PubMed).
 
 ---
 
-* **Linguagens:**
-    * Python
-    * C#
-    * JavaScript (ES6+)
+### 🎓 Formações & Certificações (Destaques)
 
-* **Front-End:**
-    * HTML5
-    * CSS3
-    * React.js
-    * Tailwind CSS
+* **Python AI Backend Developer** – DIO (Estudando) 📊
+* **Ciência de Dados com Python** – DIO (89h) 📊
+* **Introdução a Hacking e Pentest 2.0** – Solyd (8h) 🛡️
+* **Python (Mundos 1 e 2)** – Curso em Vídeo (80h) 🐍
+* **Inglês Avançado** – Wizard (Níveis T2, T4 e W4) 🇺🇸
 
-* **Ferramentas & Versionamento:**
-    * Git
-    * GitHub
-    * VS Code
+---
 
-* **Automação, Testes & Dados:**
-    * Selenium (Automação/Scraping)
-    * Testes Automatizados & QA
-    * Consumo de APIs REST
-    * NLP (Processamento de Linguagem Natural)
+### 💻 Stack Tecnológica
 
-* **Atualmente Aprendendo (Interesses):**
-    * .NET
-    * Metodologias Ágeis (Scrum/Kanban)
-  
-Sempre aberto para trocar ideias e aprender mais! 🤝
+* **Linguagens:** Python (Foco em Backend e IA), JavaScript (ES6+).
+* **Backend & Frameworks:** Desenvolvimento de APIs, Flask/FastAPI, Integração com Bancos de Dados.
+* **Dados & Automação:** ETL (Extract, Transform, Load), Testes Automatizados.
+* **Ferramentas & Cultura:** Docker (Estudando), Git/GitHub, Metodologias Ágeis (Scrum/Kanban).
+
+---
 
 ### 🚀 Projetos em Destaque
 
-<a href="https://github.com/jpplack/IA_Academy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpplack&repo=IA_Academy&theme=radical&show_owner=true" />
-</a>
-
-<a href="https://github.com/jpplack/Sentinela-Urbana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpplack&repo=Sentinela-Urbana&theme=radical&show_owner=true" />
-</a>
-
-<br/>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[IA_Academy](https://github.com/jpplack/IA_Academy)** | Plataforma inteligente que busca, otimiza e resume artigos de múltiplas fontes científicas. | Python, NLP, APIs |
+| **[Pipeline-ETL-Python](https://github.com/jpplack/Pipeline-ETL-Python)** | Sistema de extração, transformação e carregamento de dados para análise automatizada. | Python, Pandas, JSON/CSV |
 
 ---
 
-### 🔗 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroputinatti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro170101@hotmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pedro170101)
+### 📫 Entre em contato
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](SEU_LINK_DO_LINKEDIN)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seu-email@gmail.com)
+[<img src="https://img.shields.io/badge/dio-%23000000.svg?style=for-the-badge&logo=dio&logoColor=white" />](SEU_LINK_DA_DIO)
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=jpplack&show_icons=true&theme=radical)
-![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpplack&layout=compact&langs_count=8&theme=radical)
+### 📊 Estatísticas do GitHub
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpplack&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpplack&layout=compact&theme=tokyonight)
